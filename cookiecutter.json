@@ -1,0 +1,11 @@
+{
+    "full_name": "S. Kevin McNeill",
+    "email": "skmt27@mst.edu",
+    "github_username": "lightsquared",
+    "project_name": "Name of your science project",
+    "project_slug": "kingery_bulmash2",
+    "project_short_description": "A short description of your project",
+    "release_date": "2018-11-24",
+    "version": "0.1.0",
+    "_extensions": ["jinja2_time.TimeExtension"]
+}
